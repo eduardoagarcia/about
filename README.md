@@ -19,7 +19,7 @@
 
 ### What’s the best way to communicate with me?
 - `@` me in a public Slack channel.
-- If you need to communicate something private that others should not know, send me a DM [^atme].
+- If you need to communicate something private that others do not need to know, send me a DM [^atme].
 - I prefer asynchronous communication and avoid meetings/Zoom/Hangouts when a Slack thread will suffice.
 - Don't send "Hey Eduardo" and wait for my response. Include all relevant information in your initial message.
 
@@ -32,7 +32,7 @@
 - Show your work: help me see your thought process to understand the full context.
 
 ### How do I like to give feedback?
-- I ask questions and will rarely tell you the solution or the answer. Asking questions helps me understand your perspective and subsequently helps guide both of us toward the best answer or solution. Sometimes, I do not know the answer, and asking questions helps me learn. Some examples:
+- I ask questions and will rarely tell you the solution or the answer. Asking questions helps me understand your perspective and subsequently helps guide us toward the best answer or solution. Sometimes, I do not know the answer, and asking questions helps me to learn. Some examples:
 	- "How does this work?" 
 	- "What other approaches have you considered?"
 	- "I'm not sure I'm understanding the logic. Can you help me by adding more context?"
